@@ -32,3 +32,7 @@ O Flappy Bird é um jogo onde o jogador controla um pássaro que deve passar por
 
    ```bash
    git clone https://github.com/SEU_USUARIO/flappyBirdWeb.git
+
+## Visualização
+
+1. Link: https://leonardodgr.github.io/FlappyBirdWeb/
